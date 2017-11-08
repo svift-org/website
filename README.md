@@ -1,4 +1,4 @@
 # svift website
 
-This repo contains all the files for the  [I'm an inline-style link with title](https://svift.xyz "svift landing page")
+This repo contains all the files for the  [svift landing page](https://svift.xyz "svift landing page")
 
